@@ -1,3 +1,4 @@
 - [Figma Design here](https://figma.com/)
 - Required NodeJS installed
 - `npm install` then run `npm run dev`
+- [Download it here](https://drive.google.com/file/d/1emT5zvw2epwBE7MJldYfPXMu9gsQrIXQ/view?usp=sharing)
